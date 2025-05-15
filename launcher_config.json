@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Draconic",
-	"newClientUrl" : "https://www.draconic-ot.com/downloads/draconic.zip",
+	"newClientUrl" : "https://www.draconic-ot.com/downloads/14.05.70ce66.zip",
 	"clientExecutable": "Draconic.exe"
 }
