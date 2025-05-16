@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
             "name": "bin"
         }
     ],
-    "clientFolder": "Lunacores",
-    "newClientUrl" : "http://sv.lunacores.com/download/15.00.249ccc.zip",
-    "clientExecutable": "Lunacores.exe"
+	"clientFolder": "Draconic",
+	"newClientUrl" : "http://draconic-ot.com/downloads/14.05.70ce66.zip",
+	"clientExecutable": "Draconic.exe"
 }
