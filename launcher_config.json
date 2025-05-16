@@ -9,21 +9,21 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "14.05.70ce66",
-	"launcherVersion": "1.0",
-	"replaceFolders": true,
-	"replaceFolderName": [
-		{
-			"name": "assets"
-		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "bin"
-		}
-	],
-	"clientFolder": "Draconic",
-	"newClientUrl" : "http://draconic-ot.com/downloads/14.05.70ce66.zip",
-	"clientExecutable": "Draconic.exe"
+    "clientVersion": "15.00.249ccc",
+    "launcherVersion": "1.1",
+    "replaceFolders": true,
+    "replaceFolderName": [
+        {
+            "name": "assets"
+        },
+        {
+            "name": "storeimages"
+        },
+        {
+            "name": "bin"
+        }
+    ],
+    "clientFolder": "Lunacores",
+    "newClientUrl" : "http://sv.lunacores.com/download/15.00.249ccc.zip",
+    "clientExecutable": "Lunacores.exe"
 }
